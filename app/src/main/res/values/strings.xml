@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="album_description">Username</string>
+    <string name="Username">Username</string>
+    <string name="password"> Password</string>
+    <string name="Login_btn">LogIn</string>
+    <string name="login_checkbox">Keep me Login</string>
+</resources>
